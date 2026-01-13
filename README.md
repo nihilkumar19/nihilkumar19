@@ -1,10 +1,34 @@
-- 👋 Hi, I’m nihilkumar
-- 👀 I’m interested in coding,vloging,ethical hacking ...
-- 🌱 I’m currently learning advance python and etical hacking...
-- 📫 How to reach me ...
-- nihilmanitiwari@gmail.com ...
+👋 Hi, I'm Nihil Kumar
 
-<!---
-nihilkumar19/nihilkumar19 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+💻 Laravel Backend Developer with 1.6+ years of experience  
+🚀 Skilled in PHP, Laravel, MySQL, REST APIs, and AWS  
+📍 Noida, India | Open to Backend Developer roles
+
+---
+
+## 🛠 Tech Stack
+- Backend: PHP, Laravel
+- Database: MySQL
+- Cloud: AWS (EC2, S3)
+- Tools: Git, GitHub, Postman
+- Others: REST APIs, MVC Architecture
+
+---
+
+## 📌 Featured Projects
+### 🔹 Laravel REST API (Recommended – coming soon)
+- Authentication (JWT)
+- Role-based access
+- MySQL database design
+- Deployed on AWS EC2
+
+### 🔹 Python Projects
+- Fire Detection System (OpenCV)
+- Plagiarism Checker
+- URL Shortener
+
+---
+
+## 📫 Connect with me
+- LinkedIn: https://www.linkedin.com/in/nihil-kumar-745a1b1a2
+- Email: nihilk6@gmail.com
