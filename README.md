@@ -7,7 +7,7 @@
 ---
 
 ## 🛠 Tech Stack
-- Backend: PHP, Laravel
+- Backend: PHP, Laravel,Python, JAVA
 - Database: MySQL
 - Cloud: AWS (EC2, S3)
 - Tools: Git, GitHub, Postman
