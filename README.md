@@ -1,6 +1,6 @@
 👋 Hi, I'm Nihil Kumar
 
-💻 Laravel Backend Developer with 1.6+ years of experience  
+💻 Laravel Backend Developer with 2.5+ years of experience  
 🚀 Skilled in PHP, Laravel, MySQL, REST APIs, and AWS  
 📍 Noida, India | Open to Backend Developer roles
 
